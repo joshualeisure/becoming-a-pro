@@ -1,0 +1,17 @@
+// Quadratic sorting algos
+// Time Complexity (Best)
+// --Bubble Sort	O(n)
+// --Insertion Sort	O(n)
+// --Selection Sort	O(n^2)
+// Time Complexity (Average)
+// -- Bubble Sort	O(n^2)
+// -- Insertion Sort	O(n^2)
+// -- Selection Sort	O(n^2)
+// Time Complexity (Worst)
+// -- Bubble Sort	O(n^2)
+// -- Insertion Sort	O(n^2)
+// -- Selection Sort	O(n^2)
+// Space Complexity
+// -- Bubble Sort	O(1)
+// -- Insertion Sort	O(1)
+// -- Selection Sort	O(n^2)
